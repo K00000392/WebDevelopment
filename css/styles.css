@@ -112,7 +112,9 @@ div#about  {
     background-size: 230% 220%;
     color:whitesmoke;
 }
-
+a{
+    color: whitesmoke;
+}
 div#printmaking {
     text-align: center;
     width: 50%;

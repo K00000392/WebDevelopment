@@ -18,6 +18,13 @@ nav ul {
     background-color: none;
 }
 
+#heading .logo {
+  float:right;
+    margin-top: 7px;
+    margin-right: -40px
+}
+
+
 nav .selected {
     
     color:#ff9966;
